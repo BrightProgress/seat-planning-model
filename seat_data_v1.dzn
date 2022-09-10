@@ -1,0 +1,10 @@
+Blocks = {BlockA, BlockB, BlockC, BlockD, BlockE, BlockF, BlockG, BlockH};
+capacity = [84, 64, 124, 36, 90, 130, 98, 104];
+
+Groups = {G1, G2, G3, G4, G5};
+size = [100,156,194,128,148];
+
+MAX_DISTANCE=1;
+MAX_SPLITS=2;
+MIN_GROUP_SIZE = 20;
+MAX_BLOCK_ASSIGNMENTS = 2;
